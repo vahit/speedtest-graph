@@ -18,6 +18,8 @@ function bar_gen(){
     echo "$BAR ${BAR_LENGHT} MB/s"
 }
 
+
+
 function drawer() {
     D_SUM=0
     U_SUM=0

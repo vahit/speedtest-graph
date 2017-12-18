@@ -1,0 +1,24 @@
+{
+  "name": "speedtest-graph",
+  "homepage": "https://github.com/chalist/speedtest-graph",
+  "authors": [
+    "chalist <mohammad.molana@gmail.com>"
+  ],
+  "description": "",
+  "main": "Show many speedtest-cli output in human readable graph",
+  "keywords": [
+    "speedtest"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jQuery": "1.12"
+  }
+}
